@@ -4,7 +4,9 @@ I am a computer person interested in privacy, decentralization, information secu
 
 #### **I am looking for work**
 
-I have a history of software engineering, information security and darknet research. I offer consultations and help regarding my software, opsec, anonymity and privacy. I am seeking work in software/web development or security analysis/engineering. I am also available for gigs such as scripting, security auditing or help with programming.
+I have knowledge of software engineering, information security and darknet research. I offer consultations and help regarding my software, opsec, anonymity and privacy. I am seeking work in software/web development or security analysis/engineering. I am also available for gigs such as scripting, security auditing or help with programming.
+
+I am always learning
 
 Resume: https://chaoswebs.net/kevin-froman-resume-2020.pdf
 
