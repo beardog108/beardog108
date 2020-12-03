@@ -1,6 +1,6 @@
 ### Greetings
 
-I am a computer person interested in privacy, decentralization, information security, free-as-in-freedom software and human-friendly technology.
+I am a software developer interested in privacy, decentralization, information security, free-as-in-freedom software and human-friendly technology.
 
 #### **I am looking for work**
 
