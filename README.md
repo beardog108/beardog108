@@ -12,6 +12,8 @@ I am always learning
 
 Resume: https://chaoswebs.net/kevin-froman-resume-2020.pdf
 
+Keybase: [beardog](https://keybase.io/beardog)
+
 Small selection of my work:
 
 * [Onionr: private decentralized anonymity network and social platform](https://onionr.net)
